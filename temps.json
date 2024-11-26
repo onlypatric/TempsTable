@@ -1,0 +1,30 @@
+{
+  "2024":{
+    "Gennaio": 3.3,
+    "Febbraio": 4.5,
+    "Marzo": 4.6,
+    "Aprile": 8.5,
+    "Maggio": 15.2,
+    "Giugno": 19.5,
+    "Luglio": 22.1,
+    "Agosto": 20.4,
+    "Settembre": 15.2,
+    "Ottobre": 13.9,
+    "Novembre": 6.4,
+    "Dicembre": 2.2
+  },
+  "2023":{
+    "Gennaio": 3.2,
+    "Febbraio": 3.3,
+    "Marzo": 4.8,
+    "Aprile": 9.1,
+    "Maggio": 14.2,
+    "Giugno": 20.5,
+    "Luglio": 22.1,
+    "Agosto": 19.6,
+    "Settembre": 13.5,
+    "Ottobre": 14.0,
+    "Novembre": 7.4,
+    "Dicembre": 2.2
+  }
+}
